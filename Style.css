@@ -43,7 +43,7 @@ section::before
     }
     100%
     {
-        transform: translateY(-100%);
+        transform: translateY(100%);
     }
 }
 section span
